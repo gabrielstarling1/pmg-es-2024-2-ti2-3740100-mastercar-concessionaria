@@ -1,9 +1,9 @@
-# TITULO DO PROJETO
+# MasterCar - Concessionária
 
 
 **Gabriel Nogueira Vieira Resende, gabrielnvresende@gmail.com**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Nícolas Araújo Fonseca Pimenta, nafpimenta@sga.pucminas.br**
 
 **Nome completo do Aluno 3, email do aluno 3**
 
