@@ -1,7 +1,7 @@
 # TITULO DO PROJETO
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Gabriel Nogueira Vieira Resende, gabrielnvresende@gmail.com**
 
 **Nome completo do Aluno 2, email do aluno 2**
 
@@ -17,11 +17,11 @@
 
 Professores:
 
-** Prof. Nome do Prof 1 **
+** Michelle Hanne Soares de Andrade **
 
-** Prof. Nome do Prof 2 **
+** Danilo Boechat Seufitelli **
 
-** Prof. Nome do Prof 3 **
+** Alexandre Marques Alves da Silva **
 
 ---
 
