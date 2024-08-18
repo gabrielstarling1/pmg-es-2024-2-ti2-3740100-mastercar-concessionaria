@@ -1,11 +1,11 @@
-# MasterCar - Concessionária
+# MasterCar Concessionária
 
 
 **Gabriel Nogueira Vieira Resende, gabrielnvresende@gmail.com**
 
 **Nícolas Araújo Fonseca Pimenta, nafpimenta@sga.pucminas.br**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Sarah Guimarães Costa, sarahguimaraesc@hotmail.com**
 
 **Nome completo do Aluno 4, email do aluno 4**
 
@@ -39,39 +39,35 @@ mostrar algum resultado relevante do trabalho (até 10 linhas)._
 
 ## 1. Introdução
 
-_Apresente uma frase introdutória definindo o que será apresentado._
+_O presente projeto almeja desenvolver uma aplicação completa que simule o funcionamento interno de uma concessionária de veículos._
 
 ### 1.1 Contextualização
 
-_Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere.
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas)._
+_O mercado de venda de automóveis tem considerável representatividade na economia brasileira e ela vem crescendo a cada ano. Segundo a Fenabrave (Federação Nacional da Distribuição de Veículos Automotores)¹,  a venda de automóveis leves novos no início do ano de 2024 superou os valores do ano passado. Desse modo, há necessidade de se investir no desenvolvimento do setor, desde as grandes indústrias do ramo até as concessionárias de veículos._
 
 ### 1.2 Problema
 
-_Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o trabalho trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal._
+_Considerando a representatividade do setor automobilístico, tem-se a necessidade de garantir, por meio de um processo de qualidade, a venda de veículos automotivos, o que será alcançado através de um sistema bem desenvolvido e bem projetado de uma concessionária._
 
 ### 1.3 Objetivo geral
 
-_O aluno deve escrever um pequeno parágrafo ou frase com o **objetivo geral** do trabalho. 
-O objetivo deve ser bem direto, específico e definido com verbos de ação (elaborar, propor, avaliar, comparar, desenvolver, etc.). No caso específico deste projeto, o objetivo deste trabalho é desenvolver um sistema para automação de processos para um problema específico._
+_Desenvolver um sistema para automação de processos para uma concessionária de veículos fictícia._
 
 #### 1.3.1 Objetivos específicos
 
-_Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar sua prática investigativa, ou como você irá aprofundar seu trabalho._
+_Modelar processos com rigor metodológico;_
+_Aplicar os conhecimentos adquiridos em sala de aula;_
+_Projetar e desenvolver uma aplicação útil e necessária ao mercado e à sociedade;_
 
 ### 1.4 Justificativas
 
-_Mostre também as **justificativas** para o 
-desenvolvimento do seu trabalho e, caso deseje, destaque alguma contribuição do trabalho._
+_O estudo em questão contribuirá com futuros projetos do setor de vendas automobilísticas, uma vez que será exemplo de boas práticas, adequado planejamento e assertiva aplicação de processos._
 
 ## 2. Participantes do processo
 
-_Apresente aqui os perfis dos usuários-chave do sistema. Diversas são as informações que podem ser relevantes para a definição dos perfis dos usuários, tais como idade, gênero, aspectos culturais, nível de educação, entre outros. A pesquisa de mercado pode ser uma ferramenta poderosa para se identificar e caracterizar os perfis de usuários. Apresente claramente o papel a ser desempenhado por cada usuário._
+_Vendedor: homem ou mulher jovem ou de meia-idade, com experiência em vendas; encarregado(a) das vendas diretamente;_
+_Gestor: homem ou mulher jovem ou de meia-idade, com experiência e formação em gestão; encarregado(a) da aprovação das vendas feitas;_
+_Responsável pelo Setor Financeiro: homem ou mulher jovem ou de meia-idade, com experiência e formação em finanças; encarregado(a) do pagamento, do financiamento e da auditoria;_
 
 ## 3. Modelagem do processo de negócio
 
@@ -125,7 +121,7 @@ _Verifique no link abaixo como devem ser as referências no padrão ABNT:_
 
 http://portal.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
-**[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+**[1]** - _**Veja os 50 carros novos mais vendidos do Brasil em maio de 2024**. Autoesporte. Disponível em: https://autoesporte.globo.com/setor-automotivo/mercado-automotivo/noticia/2024/06/veja-os-50-carros-novos-mais-vendidos-do-brasil-em-maio-de-2024.ghtml. Acesso em: 15 ago 2024._
 
 **[1.2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
