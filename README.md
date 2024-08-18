@@ -5,7 +5,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 ## Integrantes
 
 * Gabriel Nogueira Vieira Resende
-* Nome completo do aluno 2
+* Nícolas Araújo Fonseca Pimenta
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
