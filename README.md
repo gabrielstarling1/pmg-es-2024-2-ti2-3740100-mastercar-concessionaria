@@ -1,4 +1,4 @@
-# Nome do projeto
+# MasterCar Concessionária
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
@@ -6,7 +6,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 
 * Gabriel Nogueira Vieira Resende
 * Nícolas Araújo Fonseca Pimenta
-* Nome completo do aluno 3
+* Sarah Guimarães Costa
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 * Nome completo do aluno 6
