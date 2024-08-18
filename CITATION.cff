@@ -2,39 +2,41 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: 
 authors:
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6 
+  - family-names: Nogueira Vieira Resende
+    given-names: Gabriel
+  - family-names: Vales Gomes de Castro Silva
+    given-names: Olavo
+  - family-names: Guimarães Costa
+    given-names: Sarah
+  - family-names: Araújo Fonseca Pimenta
+    given-names: Nícolas
+  - family-names: Martins
+    given-names: Jonas Rafael
+  - family-names: Marcondes Starling Rocha
+    given-names: Gabriel 
+  - family-names: Henrique da Silveira
+    given-names: Guilherme
 
   - name-suffix: Professora
     affiliation: PUC Minas
-    family-names: Alonso Veloso
-    given-names: Eveline 
-  - name-suffix: Professora
+    family-names: Hanne Soares de Andrade
+    given-names: Michelle 
+  - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: Baroni De Carvalho
-    given-names: Juliana Amaral 
-  - name-suffix: Professora
+    family-names: Marques Alves da Silva
+    given-names: Alexandre
+  - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: De Brito
-    given-names: Aline Norberta
-  - name-suffix: Professora
-    affiliation: PUC Minas
-    family-names: Ribeiro De Souza
-    given-names: Joana Gabriela
+    family-names: Boechat Seufitelli
+    given-names: Danilo
     
-keywords:
-    - 
-repository-code: 
+keywords: 
+    - vendas
+    - carros
+    - concessionária
+    - gerenciamento
+
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti2-3740100-mastercar-concessionaria/tree/main
 license: CC-BY-4.0
 version: 1.0.0
 date-released:
