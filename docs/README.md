@@ -73,11 +73,13 @@ _Responsável pelo Setor Financeiro: homem ou mulher jovem ou de meia-idade, com
 
 ### 3.1. Análise da situação atual
 
-_Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propõe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional._
+_Nos sistemas atuais, os vendedores, por exemplo, precisam acessar múltiplos sites ou plataformas para acompanhar o status de um pedido de venda. O processo pode envolver o uso de um sistema para verificar a disponibilidade de veículos no estoque, outro para verificar o status de financiamento ou pagamento, e um terceiro para gerenciar a entrega do veículo ao cliente. Essa dispersão de informações obriga os vendedores a fazerem verificações manuais constantes em cada um desses sistemas para garantir que não percam atualizações críticas. Além disso, o setor financeiro precisa consolidar manualmente as informações provenientes de diferentes fontes para fechar relatórios e assegurar que todas as transações estejam em conformidade.
+Essa falta de integração não só consome tempo, mas também aumenta a probabilidade de erros, como perda de informações, atrasos na comunicação e, em alguns casos, falhas no fechamento de vendas devido à demora na obtenção de informações atualizadas. A consequência é uma experiência fragmentada, tanto para os funcionários quanto para os clientes, que acabam esperando mais do que o necessário para a conclusão de um processo de compra._
 
 ### 3.2. Descrição geral da proposta de solução
 
-_Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias._
+_A proposta de um novo sistema integrado, como o Mastercar, busca resolver esses problemas unificando todos os processos da concessionária em uma única plataforma. Esse sistema permitiria que todos os setores compartilhem informações em tempo real, eliminando a necessidade de múltiplos acessos a diferentes sistemas. Os vendedores, por exemplo, poderiam acompanhar o status de um processo de venda desde a negociação inicial até a entrega do veículo, tudo em um único painel, através de um histórico do processo e notificações, também exibida numa caixa de entrada. Da mesma forma, o setor financeiro teria acesso imediato a todas as transações e atualizações de pagamento, simplificando o processo de fechamento contábil.
+Essa unificação de processos e informações não só melhoraria a comunicação entre os setores, mas também aumentaria a eficiência operacional, permitindo que os funcionários se concentrem em atividades que aumentem o lucro da empresa, como o atendimento ao cliente e o fechamento de vendas, em vez de gastar tempo navegando por sistemas diferentes e lidando com informações desconectadas._
 
 ### 3.3. Modelagem dos processos
 
